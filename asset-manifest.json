@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TpoTaskApp/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/TpoTaskApp/static/js/main.545393f1.chunk.js",
-    "main.js.map": "/TpoTaskApp/static/js/main.545393f1.chunk.js.map",
+    "main.js": "/TpoTaskApp/static/js/main.5baefca3.chunk.js",
+    "main.js.map": "/TpoTaskApp/static/js/main.5baefca3.chunk.js.map",
     "runtime-main.js": "/TpoTaskApp/static/js/runtime-main.a3b8520f.js",
     "runtime-main.js.map": "/TpoTaskApp/static/js/runtime-main.a3b8520f.js.map",
     "static/css/2.d45d6843.chunk.css": "/TpoTaskApp/static/css/2.d45d6843.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.100fd34d.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.545393f1.chunk.js"
+    "static/js/main.5baefca3.chunk.js"
   ]
 }
