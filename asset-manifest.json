@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TpoTaskApp/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/TpoTaskApp/static/js/main.8e0a1cee.chunk.js",
+    "main.js.map": "/TpoTaskApp/static/js/main.8e0a1cee.chunk.js.map",
+    "runtime-main.js": "/TpoTaskApp/static/js/runtime-main.a3b8520f.js",
+    "runtime-main.js.map": "/TpoTaskApp/static/js/runtime-main.a3b8520f.js.map",
+    "static/css/2.d45d6843.chunk.css": "/TpoTaskApp/static/css/2.d45d6843.chunk.css",
+    "static/js/2.100fd34d.chunk.js": "/TpoTaskApp/static/js/2.100fd34d.chunk.js",
+    "static/js/2.100fd34d.chunk.js.map": "/TpoTaskApp/static/js/2.100fd34d.chunk.js.map",
+    "static/js/3.021e3241.chunk.js": "/TpoTaskApp/static/js/3.021e3241.chunk.js",
+    "static/js/3.021e3241.chunk.js.map": "/TpoTaskApp/static/js/3.021e3241.chunk.js.map",
+    "index.html": "/TpoTaskApp/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/TpoTaskApp/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/TpoTaskApp/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.100fd34d.chunk.js.LICENSE.txt": "/TpoTaskApp/static/js/2.100fd34d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b8520f.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.100fd34d.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.8e0a1cee.chunk.js"
+  ]
+}
